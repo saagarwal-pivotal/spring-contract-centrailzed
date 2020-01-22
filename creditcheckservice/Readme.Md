@@ -4,7 +4,7 @@
 ### Provider Side Changes using centralized contracts repo
 
 
-### Step 3
+### Step 1
 
  1. Add contract verifier dependency 
  2. Add dependency management to pull in all additional cloud depenedencies
