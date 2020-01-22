@@ -37,3 +37,12 @@ Running below command will generate the stubs for consumer and contracts jar
 mvn clean install -DskipTests
 
 ```
+
+### How to generate contracts jar for provider
+
+step into the root folder and run the maven command.
+
+```
+mvn clean install 
+
+```
