@@ -60,6 +60,6 @@ Note contracts jar is referred in plugins section that has all the contracts
 workoffline means check into local repository 
 
 
-### Step 4
+### Step 2
 
 Add the base contract test class that will stub the service and set up the controller
